@@ -55,3 +55,8 @@ Evalua el código. Identifica legibilidad, funcionamiento, posibles bugs, buenas
 - Comentarios claros orientados a propósito
 
 ![table7](/resourses/image7.png)
+
+- Ver pruebas en script.js
+
+
+![table8](/resourses/image8.png)
