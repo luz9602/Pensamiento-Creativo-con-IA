@@ -60,3 +60,15 @@ Evalua el código. Identifica legibilidad, funcionamiento, posibles bugs, buenas
 
 
 ![table8](/resourses/image8.png)
+
+## Fase 4: Presentación y colaboración
+
+Aprender Programación Orientada a Objetos me ha hecho comprender lo importante que es organizar el código pensando en el mundo real. Antes veía JavaScript como algo lleno de funciones y líneas sin mucha relación, pero ahora entiendo que los objetos me permiten estructurar ideas de manera más clara y ordenada.
+
+Me di cuenta de que la POO no solo ayuda a escribir código más limpio, sino que también facilita mantenerlo y hacerlo crecer con el tiempo. Comparar los conceptos con elementos del espacio me permitió visualizar mejor cada parte: las clases como planos, los objetos como planetas y estrellas, y los métodos como las acciones que ocurren dentro de una galaxia.
+
+Además, ver un ejemplo que rompe con las buenas prácticas fue útil para apreciar por qué la POO es tan valiosa: sin una estructura definida, todo se vuelve caótico y difícil de controlar.
+
+Sé que todavía me queda camino por recorrer, pero ahora tengo una base más sólida para seguir aprendiendo y aplicando POO en proyectos más complejos. Esta experiencia me dejó con más claridad y motivación para seguir explorando el universo del desarrollo en JavaScript.
+
+![infografia](/resourses/infografia.png)
